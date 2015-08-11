@@ -1,4 +1,3 @@
-
 <?php
 // Server in the this format: <computer>\<instance name> or 
 // <server>,<port> when using a non default port number

@@ -5,6 +5,7 @@ $server = 'KALLESPC\SQLEXPRESS';
 // Connect to MSSQL
 $link = mssql_connect($server, 'sa', 'phpfi');
 if (!$link) {
+   //If error
     die('Something went wrong while connecting to MSSQL');
 }
 ?>
